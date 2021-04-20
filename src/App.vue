@@ -4,7 +4,7 @@
 
       <div class="container">
         <div class="card card-body">
-            <h1><b>Desafio</b><i style="color: #ccc">Lux</i></h1>
+            <h1><b>Github</b><i style="color: #ccc">Search</i></h1>
             <input @keyup="getUser" type="text" placeholder="Digite um nome para encontrar usuarios e repositrios" class="form-control" required id="search">
         </div>
 
@@ -68,8 +68,7 @@ export default {
 
 <style>
 #app{
-  background-image: url('./assets/fundo2.jpg');
-  background-size: cover;
+ 
 }
 </style>
 
