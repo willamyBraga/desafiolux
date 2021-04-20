@@ -14,5 +14,6 @@
 <script>
 export default {
     props: ["repo"] 
+    
 }
 </script>
